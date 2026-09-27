@@ -1,7 +1,7 @@
 # AI Agent & Business Automation
 
 ## What it does
-Builds AI agents and automated workflows that replace manual business processes — using n8n and other automation/AI tooling depending on what the client needs. Applicable across industries (real estate is one example, not the focus).
+Builds AI agents and automated workflows that replace manual business processes using n8n and other automation/AI tooling depending on what the client needs. Applicable across industries (real estate is one example, not the focus).
 
 ## Tech stack
 - n8n and other workflow/automation tools
@@ -33,4 +33,4 @@ Business value: No more lost leads due to slow response time; the agent never ta
 ## Notes
 Each client's automation is built around their specific process. Client-specific credentials and business logic are not included publicly.
 
-> Note: This specific AI agent is just a sample. Every automation is custom-built — tell me what task or workflow you want automated, and I'll build it, regardless of industry or use case.
+> Note: This specific AI agent is just a sample. Every automation is custom-built tell me what task or workflow you want automated, and I'll build it, regardless of industry or use case.
