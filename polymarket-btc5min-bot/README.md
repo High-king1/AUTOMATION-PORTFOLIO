@@ -16,12 +16,17 @@ Live BTC price/market data → prediction logic → signal generated
 ```
 
 ## Demo
-<img width="1882" height="992" alt="98b17287-4711-4a73-a0ce-08e282fe2b2b" src="https://github.com/user-attachments/assets/f96aa08b-cd6f-4011-8388-31105a820c6e" />
-<img width="1882" height="992" alt="328cc49e-8492-4be4-b87b-b4af057b44e3" 
+<img width="1882" height="992" alt="98b17287-4711-4a73-a0ce-08e282fe2b2b" src="https://github.com/user-attachments/assets/39cc6dfb-ec83-4e9e-a69d-a25e7965bc68" />
+
+<img width="1882" height="992" alt="328cc49e-8492-4be4-b87b-b4af057b44e3" src="https://github.com/user-attachments/assets/1ed5f276-f029-475a-88c7-ea3907d17cb1" />
 
 
 
-https://github.com/user-attachments/assets/04bcc356-0818-4331-8847-1de57ce1d583
+https://github.com/user-attachments/assets/38edf8a9-3012-466c-92be-14e3746583ec
+
+
+
+
 
 
 
