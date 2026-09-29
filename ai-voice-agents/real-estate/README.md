@@ -14,7 +14,9 @@ Inbound call → qualification questions (buy/rent, area, budget, bedrooms, time
 ```
 
 ## Demo
-![screenshot](ADD_IMAGE_HERE) ![screenshot](ADD_IMAGE_HERE)
+
+
+
 
 `demo-call.mp4`
 
