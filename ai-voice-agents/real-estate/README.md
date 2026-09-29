@@ -1,4 +1,4 @@
-# AI Voice Agent — Real Estate Lead Qualifier & Booking Assistant
+# AI Voice Agent Real Estate Lead Qualifier & Booking Assistant
 
 ## What it does
 Answers inbound calls, qualifies the buyer or renter, and books a property viewing — a technical demonstration of automated call handling and lead qualification for real estate agencies.
